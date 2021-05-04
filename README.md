@@ -1,3 +1,6 @@
+
+[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
 # Word Processor
 Python Word Processor useful for indexing and searching into a collection of documents
 
